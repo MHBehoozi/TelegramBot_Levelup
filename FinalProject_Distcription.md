@@ -9,7 +9,7 @@
 </p>
 <ul dir=rtl style="text-align:justify">
   <li>استفاده از متد‌ها و Api‌های مختلف تلگرام</li>
-  <li>استفاده از telegram bot و. telegram.txt</li>
+  <li>استفاده از telegram bot و. telegram.ext</li>
   <li>استفاده از conversation handler</li>
   <li>استفاده از هندلر‌های کامند ، مسیج و ارور</li>
   <li>استفاده از فیلتر برای مسیج‌ها</li>
